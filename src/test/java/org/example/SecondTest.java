@@ -7,5 +7,8 @@ public class SecondTest {
 
         System.out.println("this is my second");
         System.out.println("ki korchis");
+
+        System.out.println("this is from Abir");
+        System.out.println("how r u, long time no see");
     }
 }
