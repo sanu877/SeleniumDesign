@@ -6,4 +6,8 @@ public class FourthTST {
         System.out.println("this is architecture change");
 
     }
+
+    static {
+        System.out.println("this is statick block");
+    }
 }
